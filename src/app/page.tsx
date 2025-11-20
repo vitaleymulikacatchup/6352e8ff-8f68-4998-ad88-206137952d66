@@ -269,7 +269,7 @@ export default function F1PresentationPage() {
           title="Ready to Learn More About F1?"
           description="Contact us for detailed information about Formula 1 technology, racing specifications, or to schedule a comprehensive presentation for your team or organization."
           tagIcon={Mail}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763623294786-dnj861t5.jpg"
+          videoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_34kFQ1mvageIxtFsoHwjFOCooyh/uploaded-1763624812954-ledki9de.mp4"
           imageAlt="Formula 1 racing circuit aerial view"
           mediaPosition="right"
           inputPlaceholder="Enter your email address"
